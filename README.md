@@ -1,2 +1,2 @@
 # MyFirstRepository
-just exploring 
+just exploring and learning
